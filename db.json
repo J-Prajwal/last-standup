@@ -1,0 +1,60 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "Garv",
+      "last_name": "Pringour",
+      "email": "gpringour0@clickbank.net",
+      "gender": "Genderfluid",
+      "ip_address": "27.174.245.206"
+    },
+    {
+      "id": 2,
+      "first_name": "Sky",
+      "last_name": "Lanktree",
+      "email": "slanktree1@buzzfeed.com",
+      "gender": "Bigender",
+      "ip_address": "6.241.65.22"
+    },
+    {
+      "id": 3,
+      "first_name": "Adela",
+      "last_name": "Fillingham",
+      "email": "afillingham2@newsvine.com",
+      "gender": "Female",
+      "ip_address": "132.199.240.86"
+    },
+    {
+      "id": 4,
+      "first_name": "Auguste",
+      "last_name": "Lomasney",
+      "email": "alomasney3@deviantart.com",
+      "gender": "Female",
+      "ip_address": "143.157.146.179"
+    },
+    {
+      "id": 5,
+      "first_name": "Bernardina",
+      "last_name": "Hostan",
+      "email": "bhostan4@senate.gov",
+      "gender": "Female",
+      "ip_address": "245.7.194.144"
+    },
+    {
+      "first_name": "Rahul",
+      "last_name": "Kumar",
+      "email": "rahul.kumar@gmail.com",
+      "gender": "Male",
+      "ip_address": "27.174.245.206",
+      "id": 6
+    },
+    {
+      "first_name": "Amir",
+      "last_name": "Khan",
+      "email": "amir.khan@gmail.com",
+      "gender": "Male",
+      "ip_address": "27.174.245.206",
+      "id": 7
+    }
+  ]
+}
